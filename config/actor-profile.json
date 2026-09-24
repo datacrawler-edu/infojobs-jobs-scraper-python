@@ -1,0 +1,14 @@
+{
+  "actor": "datascraperes/infojobs-jobs-scraper",
+  "actorUrl": "https://apify.com/datascraperes/infojobs-jobs-scraper?fpr=edudata",
+  "repository": "datacrawler-edu/infojobs-jobs-scraper-python",
+  "billableEvent": "infojobs-job-result",
+  "publicTasks": [
+    "infojobs-madrid-python-jobs",
+    "infojobs-barcelona-permanent-jobs",
+    "infojobs-recent-jobs-by-date",
+    "infojobs-remote-jobs-spain",
+    "infojobs-part-time-jobs-spain"
+  ]
+}
+

@@ -1,0 +1,12 @@
+{
+  "keyword": "python",
+  "location": "Madrid",
+  "remote": "any",
+  "contractType": "any",
+  "workday": "any",
+  "publishedWithinDays": "any",
+  "sortBy": "relevance",
+  "maxItems": 1,
+  "includeDetails": false
+}
+

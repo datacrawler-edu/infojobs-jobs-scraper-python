@@ -1,0 +1,23 @@
+{
+  "searchUrl": "https://www.infojobs.net/ofertas-trabajo/espana?keyword=python&page=1&sortBy=RELEVANCE&onlyForeignCountry=false&countryIds=17&sinceDate=ANY&provinceIds=33",
+  "scrapedAt": "2026-09-24T09:11:02Z",
+  "offer": {
+    "code": "694a872eb84b0ba839fa86d91335d9",
+    "title": "Desarrollador Senior Python (Híbrido)",
+    "description": "Como Desarrollador Senior Python, formarás parte de un equipo ágil centrado en la construcción y evolución de servicios backend escalables y robustos. Colaborarás con DevOps y Product para definir y entregar soluciones basadas en contenedores que se desplieguen en entornos de producción con alta disponibilidad, contribuyendo a la estabilidad y mejora continua del ecosistema tecnológico de la empresa.\nPython: Es el lenguaje principal de desarrollo; necesitamos que domines su ecosistema y buenas prácticas para construir código mantenible y de alto rendimiento.\nFastAPI: Debes tener experiencia en su uso para desarrollar APIs modernas, rápidas y bien documentadas, aprovechando sus capacidades asíncronas y validación de datos.\nAPIs REST y/o GraphQL: Es esencial que hayas diseñado e implementado APIs que se integren con múltiples sistemas, priorizando la claridad, seguridad y escalabilidad.\nContenedores: Debes entender cómo empaquetar y ejecutar aplicaciones en entornos aislados, asegurando consistencia entre desarrollo, prueba y producción.\nLa modalidad de trabajo es híbrida (2 - 3 días en las oficinas del cliente) en la zona de IFEMA.",
+    "city": "Madrid",
+    "link": "https://www.infojobs.net/madrid/desarrollador-senior-python-hibrido/of-i694a872eb84b0ba839fa86d91335d9?applicationOrigin=search-new&page=1&sortBy=RELEVANCE",
+    "contractType": "Contrato indefinido",
+    "workday": "Jornada completa",
+    "teleworking": "Híbrido",
+    "publishedAt": "2026-09-17T08:16:28Z",
+    "companyName": "DEVOTEAM",
+    "companyLogo": "https://multimedia-logos.infojobs.net/image/upload/c8/c8ec5db1-715e-42b0-88b0-fc43822fc2eb",
+    "companyLink": "https://devoteam.ofertas-trabajo.infojobs.net",
+    "states": [],
+    "upsellings": ["PROMOTED"],
+    "executive": false,
+    "newBOId": "ab33f2ae-c707-4945-a191-e4fbd970d48c"
+  }
+}
+
