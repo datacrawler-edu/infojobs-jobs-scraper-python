@@ -51,11 +51,11 @@ The complete representative Dataset item is available in [data/sample-output.jso
 The five public task presets provide focused starting points for Madrid Python
 jobs, permanent Barcelona jobs, recent jobs, remote jobs and part-time jobs:
 
-- [Madrid Python Jobs](https://apify.com/datascraperes/infojobs-madrid-python-jobs)
-- [Permanent Barcelona Jobs](https://apify.com/datascraperes/infojobs-barcelona-permanent-jobs)
-- [Recent Jobs by Date](https://apify.com/datascraperes/infojobs-recent-jobs-by-date)
-- [Remote Jobs in Spain](https://apify.com/datascraperes/infojobs-remote-jobs-spain)
-- [Part-time Jobs in Spain](https://apify.com/datascraperes/infojobs-part-time-jobs-spain)
+- [Madrid Python Jobs](https://apify.com/datascraperes/infojobs-jobs-scraper/examples/infojobs-madrid-python-jobs)
+- [Permanent Barcelona Jobs](https://apify.com/datascraperes/infojobs-jobs-scraper/examples/infojobs-barcelona-permanent-jobs)
+- [Recent Jobs by Date](https://apify.com/datascraperes/infojobs-jobs-scraper/examples/infojobs-recent-jobs-by-date)
+- [Remote Jobs in Spain](https://apify.com/datascraperes/infojobs-jobs-scraper/examples/infojobs-remote-jobs-spain)
+- [Part-time Jobs in Spain](https://apify.com/datascraperes/infojobs-jobs-scraper/examples/infojobs-part-time-jobs-spain)
 
 ## Quick start for developers
 
@@ -189,4 +189,3 @@ For an example or integration issue, [open a GitHub issue](https://github.com/da
 ## License
 
 This repository is released under the MIT License.
-
